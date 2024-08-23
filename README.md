@@ -1,57 +1,21 @@
-# Workbench
+# My Bench Projects!
 
-![Stable Diffusion illustration of a wizard's cluttered workshop](193496338_surrealist__illustration_of_a_workbench_cluttered_with_colorful_objects_and_items_representing_the_u.png)
+You've found my brainstorming space!
 
-A simple brainstorming space, powered by the github frontend, a github action, and a simple python script.
+via: https://github.com/dmarx/workbench
 
-For people who don't mind sharing their ideas or their brainstorming process publicly.  
-Remember: there are no bad ideas in brainstorming.
+|Date Completed|Problem Name|Time Completed  (minutes)|Tags
+|:---|:---|---:|:---|
+|2024-08-23|[128. Longest Consecutive Sequence](128LongestConsecutiveSequence.md)|N/A|[![](https://img.shields.io/badge/tag-Arrays-c5d714)](./tags/Arrays.md) [![](https://img.shields.io/badge/tag-Hashing-84f8cf)](./tags/Hashing.md) [![](https://img.shields.io/badge/tag-Medium-9bf4b7)](./tags/Medium.md)|
+|2024-08-23|[347. Top K Frequent Elements](347TopKFrequentElements1.md)|35:00|[![](https://img.shields.io/badge/tag-Arrays-c5d714)](./tags/Arrays.md) [![](https://img.shields.io/badge/tag-Hashing-84f8cf)](./tags/Hashing.md) [![](https://img.shields.io/badge/tag-Medium-9bf4b7)](./tags/Medium.md)|
+|2024-08-23|[242. Valid Anagram](242ValidAnagram1.md)|12:23|[![](https://img.shields.io/badge/tag-Arrays-c5d714)](./tags/Arrays.md) [![](https://img.shields.io/badge/tag-Easy-6f4790)](./tags/Easy.md) [![](https://img.shields.io/badge/tag-Hashing-84f8cf)](./tags/Hashing.md)|
+|2024-08-23|[1. Two Sum](1TwoSum1.md)|15:31|[![](https://img.shields.io/badge/tag-Arrays-c5d714)](./tags/Arrays.md) [![](https://img.shields.io/badge/tag-Easy-6f4790)](./tags/Easy.md) [![](https://img.shields.io/badge/tag-Hashing-84f8cf)](./tags/Hashing.md)|
+|2024-08-23|[238. Product of Array Except Self](238ProductOfArrayExceptSelf1.md)|45:00|[![](https://img.shields.io/badge/tag-Arrays-c5d714)](./tags/Arrays.md) [![](https://img.shields.io/badge/tag-Hashing-84f8cf)](./tags/Hashing.md) [![](https://img.shields.io/badge/tag-Medium-9bf4b7)](./tags/Medium.md)|
+|2024-08-23|[217. Contains Duplicate](217ContainsDuplicate2.md)|1:12|[![](https://img.shields.io/badge/tag-Arrays-c5d714)](./tags/Arrays.md) [![](https://img.shields.io/badge/tag-Easy-6f4790)](./tags/Easy.md) [![](https://img.shields.io/badge/tag-Hashing-84f8cf)](./tags/Hashing.md)|
+|2024-08-23|[1. Two Sum](1TwoSum2.md)|4:33|[![](https://img.shields.io/badge/tag-Arrays-c5d714)](./tags/Arrays.md) [![](https://img.shields.io/badge/tag-Easy-6f4790)](./tags/Easy.md) [![](https://img.shields.io/badge/tag-Hashing-84f8cf)](./tags/Hashing.md)|
+|2024-08-23|[49. Group Anagrams](49GroupAnagrams1.md)|31:05|[![](https://img.shields.io/badge/tag-Arrays-c5d714)](./tags/Arrays.md) [![](https://img.shields.io/badge/tag-Hashing-84f8cf)](./tags/Hashing.md) [![](https://img.shields.io/badge/tag-Medium-9bf4b7)](./tags/Medium.md)|
+|2024-08-23|[242. Valid Anagram](242ValidAnagram2.md)|18:38|[![](https://img.shields.io/badge/tag-Arrays-c5d714)](./tags/Arrays.md) [![](https://img.shields.io/badge/tag-Easy-6f4790)](./tags/Easy.md) [![](https://img.shields.io/badge/tag-Hashing-84f8cf)](./tags/Hashing.md)|
+|2024-08-23|[217. Contains Duplicate](217ContainsDuplicateAttempt1.md)|5:00|[![](https://img.shields.io/badge/tag-Arrays-c5d714)](./tags/Arrays.md) [![](https://img.shields.io/badge/tag-Easy-6f4790)](./tags/Easy.md) [![](https://img.shields.io/badge/tag-Hashing-84f8cf)](./tags/Hashing.md)|
+|2024-08-23|[36. Valid Sudoku](36ValidSudoku1.md)|45:00|[![](https://img.shields.io/badge/tag-Arrays-c5d714)](./tags/Arrays.md) [![](https://img.shields.io/badge/tag-Hashing-84f8cf)](./tags/Hashing.md) [![](https://img.shields.io/badge/tag-Medium-9bf4b7)](./tags/Medium.md)|
 
-**What it looks like in action:** https://github.com/dmarx/bench-warmers  
-
-# Setup
-
-1. Fork this repository
-2. Click on the "Actions" tab and activate github action workflows on your fork.
-3. Change the name of `README.stub.template` to `README.stub`
-
-<!--
-2. Set "write" access on your `${{ secrets.GITHUB_TOKEN }}`, [instructions](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository#configuring-the-default-github_token-permissions) here.
--->
-
-
-# Usage
-
-1. Select `Add File > Create New File` to add a new markdown file containing the idea you want to log. Let's call this an "article".
-2. Upon committing, a github action runs which builds the README, which is customizable from a template.
-
-The generated `README.md` will contain a Table of Contents of your articles, and supports the following features:
-
-* Infers modification date from commit history
-* Sort most recently modified ideas at the top
-* Hyperlink to document using markdown title as anchor text
-* An "estimated idea maturity" metric (it's just character count atm).
-* Custom tagging
-* Wikipedia-esque "category" pages which group articles by tag
-
-### Rules to keep stuff from breaking
-
-1. article filenames contain no whitespace and use the `.md` suffix
-2. the first line of a markdown article you want added to the README TOC starts with a single 'pound' character (i.e. defines an H1 element for the document title).
-3. use `lightgrey` badges to add a tag to an idea. Yes, this is begging for a simpler approach.
-
-If you don't like these rules, I welcome PRs ;)
-
-
-# FAQ
-
-### I added a markdown file and nothing changed
-
-It takes a few seconds for the workflow that updates the README to run. Try waiting a few minutes and refreshing the page. 
-
-If you get impatient, click on the "Actions" tab and make sure there's an entry associated with your most recent commit 
-with a green check mark next to it. A red X means something went wrong, a yellow circle means the workflow is still running.
-
-### How does the README build itself?
-
-Discussion here: https://stackoverflow.com/a/72918091/819544
+[![](https://img.shields.io/badge/tag-Arrays-c5d714)](./tags/Arrays.md) [![](https://img.shields.io/badge/tag-Hashing-84f8cf)](./tags/Hashing.md) [![](https://img.shields.io/badge/tag-Medium-9bf4b7)](./tags/Medium.md) [![](https://img.shields.io/badge/tag-Easy-6f4790)](./tags/Easy.md)
