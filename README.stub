@@ -1,8 +1,17 @@
-# My Bench Projects!
+# You found my Leetcode Notes!
 
-You've found my brainstorming space!
+Hi, my name is Kyle Ho-Nguyen and I am using this repository as a means to record my journey
+of becoming a Leetcode Master!
 
-via: https://github.com/dmarx/workbench
+Right now I am going through the Neetcode 150 so I can prepare for technical interviews.
+
+This repo took inspiration from: https://github.com/dmarx/workbench. I edited some of the TOC
+and added more functions to better align with my goals of this repo. 
+
+Currently, each markdown file contains the Leetcode problem, time it took to solve, tags to differentiate
+problems, solution guides, important takeaways, and code blocks of the solution!
+
+This is only to record and track my own progress. 
 
 {TOC}
 
