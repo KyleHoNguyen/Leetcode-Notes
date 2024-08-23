@@ -24,6 +24,7 @@ Link to problem: [1. Two Sum](https://leetcode.com/problems/two-sum/description/
 - Know what Enumerate() does for lists and hashmaps!! It creates pairs of the value and index for lists while it creates pairs of keys and values for hashmaps. 
 - Was really important for this problem as it simplified getting the index of the numbers from the array
 
+
 ### USE ENUMERATE() WHEN YOU CAN!!!!!
 
  # Code 
