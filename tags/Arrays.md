@@ -2,7 +2,7 @@
 
 |Date Completed|Problem Name|Time Completed  (minutes)|Tags
 |:---|:---|---:|:---|
-|2024-08-25|[49. Group Anagrams](../49GroupAnagrams2.md)|31:05|[![](https://img.shields.io/badge/tag-Arrays-473080)](../tags/Arrays.md) [![](https://img.shields.io/badge/tag-Hashing-4b9e32)](../tags/Hashing.md) [![](https://img.shields.io/badge/tag-Medium-25a9f1)](../tags/Medium.md)|
+|2024-08-26|[49. Group Anagrams](../49GroupAnagrams2.md)|14:14|[![](https://img.shields.io/badge/tag-Arrays-473080)](../tags/Arrays.md) [![](https://img.shields.io/badge/tag-Hashing-4b9e32)](../tags/Hashing.md) [![](https://img.shields.io/badge/tag-Medium-25a9f1)](../tags/Medium.md)|
 |2024-08-23|[128. Longest Consecutive Sequence](../128LongestConsecutiveSequence.md)|N/A|[![](https://img.shields.io/badge/tag-Arrays-473080)](../tags/Arrays.md) [![](https://img.shields.io/badge/tag-Hashing-4b9e32)](../tags/Hashing.md) [![](https://img.shields.io/badge/tag-Medium-25a9f1)](../tags/Medium.md)|
 |2024-08-23|[347. Top K Frequent Elements](../347TopKFrequentElements1.md)|35:00|[![](https://img.shields.io/badge/tag-Arrays-473080)](../tags/Arrays.md) [![](https://img.shields.io/badge/tag-Hashing-4b9e32)](../tags/Hashing.md) [![](https://img.shields.io/badge/tag-Medium-25a9f1)](../tags/Medium.md)|
 |2024-08-23|[242. Valid Anagram](../242ValidAnagram1.md)|12:23|[![](https://img.shields.io/badge/tag-Arrays-473080)](../tags/Arrays.md) [![](https://img.shields.io/badge/tag-Easy-33b5de)](../tags/Easy.md) [![](https://img.shields.io/badge/tag-Hashing-4b9e32)](../tags/Hashing.md)|
