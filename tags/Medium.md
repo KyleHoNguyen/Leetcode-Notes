@@ -2,6 +2,7 @@
 
 |Date Completed|Problem Name|Time Completed  (minutes)|Tags
 |:---|:---|---:|:---|
+|2024-09-11|[167. Two Sum II - Input Array Is Sorted](../167TwoSumII1.md)|23:05|[![](https://img.shields.io/badge/tag-Medium-a168f4)](../tags/Medium.md) [![](https://img.shields.io/badge/tag-Two-Pointers-e2851f)](../tags/Two-Pointers.md)|
 |2024-08-26|[347. Top K Frequent Elements](../347TopKFrequentElements2.md)|22:|[![](https://img.shields.io/badge/tag-Arrays-4b9e32)](../tags/Arrays.md) [![](https://img.shields.io/badge/tag-Hashing-33b5de)](../tags/Hashing.md) [![](https://img.shields.io/badge/tag-Medium-a168f4)](../tags/Medium.md)|
 |2024-08-26|[49. Group Anagrams](../49GroupAnagrams2.md)|14:14|[![](https://img.shields.io/badge/tag-Arrays-4b9e32)](../tags/Arrays.md) [![](https://img.shields.io/badge/tag-Hashing-33b5de)](../tags/Hashing.md) [![](https://img.shields.io/badge/tag-Medium-a168f4)](../tags/Medium.md)|
 |2024-08-23|[128. Longest Consecutive Sequence](../128LongestConsecutiveSequence.md)|N/A|[![](https://img.shields.io/badge/tag-Arrays-4b9e32)](../tags/Arrays.md) [![](https://img.shields.io/badge/tag-Hashing-33b5de)](../tags/Hashing.md) [![](https://img.shields.io/badge/tag-Medium-a168f4)](../tags/Medium.md)|

@@ -2,7 +2,7 @@
 
 |Date Completed|Problem Name|Time Completed  (minutes)|Tags
 |:---|:---|---:|:---|
-|2024-09-09|[125. Valid Palindrome](../125ValidPalindrome1.md)|18:22|[![](https://img.shields.io/badge/tag-Easy-25a9f1)](../tags/Easy.md) [![](https://img.shields.io/badge/tag-Two-Pointers-e2851f)](../tags/Two-Pointers.md)|
+|2024-09-11|[125. Valid Palindrome](../125ValidPalindrome1.md)|18:22|[![](https://img.shields.io/badge/tag-Easy-25a9f1)](../tags/Easy.md) [![](https://img.shields.io/badge/tag-Two-Pointers-e2851f)](../tags/Two-Pointers.md)|
 |2024-08-23|[1. Two Sum](../1TwoSum1.md)|15:31|[![](https://img.shields.io/badge/tag-Arrays-4b9e32)](../tags/Arrays.md) [![](https://img.shields.io/badge/tag-Easy-25a9f1)](../tags/Easy.md) [![](https://img.shields.io/badge/tag-Hashing-33b5de)](../tags/Hashing.md)|
 |2024-08-23|[242. Valid Anagram](../242ValidAnagram2.md)|18:38|[![](https://img.shields.io/badge/tag-Arrays-4b9e32)](../tags/Arrays.md) [![](https://img.shields.io/badge/tag-Easy-25a9f1)](../tags/Easy.md) [![](https://img.shields.io/badge/tag-Hashing-33b5de)](../tags/Hashing.md)|
 |2024-08-23|[242. Valid Anagram](../242ValidAnagram1.md)|12:23|[![](https://img.shields.io/badge/tag-Arrays-4b9e32)](../tags/Arrays.md) [![](https://img.shields.io/badge/tag-Easy-25a9f1)](../tags/Easy.md) [![](https://img.shields.io/badge/tag-Hashing-33b5de)](../tags/Hashing.md)|
