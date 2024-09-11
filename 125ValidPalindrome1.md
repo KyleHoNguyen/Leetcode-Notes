@@ -13,7 +13,7 @@ Link to problem: [125. Valid Palindrome](https://leetcode.com/problems/valid-pal
 This solution uses a function called re.sub() to replace all non-alphanumeric values with empty string before iterating through the string
 
 1. Use re.sub() to substitute non-alphanumeric values with empty string for string s
-1. Convert all letts of string s to lowercase using .lower()
+1. Convert all letters of string s to lowercase using .lower()
 1. Iterate through string
 1. Check if letters at position i and i-1 is equal, if not return False
 1. Break for loop if i and i-1 is equal
@@ -25,7 +25,7 @@ This solution uses a function called re.sub() to replace all non-alphanumeric va
 
 ## Biggest Takeaway
 
-
+if it works it works
 
 ## Code 
 
