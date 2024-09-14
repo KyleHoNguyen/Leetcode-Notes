@@ -1,6 +1,6 @@
 # 167. Two Sum II - Input Array Is Sorted
 
-labels: Two-Pointers, Medium
+labels: TwoPointers, Medium
 
 Time Completed: 23:05 minutes
 
