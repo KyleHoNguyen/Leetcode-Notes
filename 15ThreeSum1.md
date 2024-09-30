@@ -1,6 +1,6 @@
 # 15. 3Sum
 
-labels: Two-Pointers, Medium
+labels: TwoPointers, Medium
 
 Time Completed: 47:06 minutes
 

@@ -1,6 +1,6 @@
 # 125. Valid Palindrome
 
-labels: Two-Pointers, Easy
+labels: TwoPointers, Easy
 
 Time Completed: 18:22 minutes
 
