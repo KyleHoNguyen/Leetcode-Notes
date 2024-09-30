@@ -15,6 +15,7 @@ This is only to record and track my own progress.
 
 |Date Completed|Problem Name|Time Completed  (minutes)|Tags
 |:---|:---|---:|:---|
+|2024-09-30|[155. Min Stack](155MinStack1.md)|20:23|[![](https://img.shields.io/badge/tag-Medium-c5d714)](./tags/Medium.md) [![](https://img.shields.io/badge/tag-Stack-25a9f1)](./tags/Stack.md)|
 |2024-09-28|[11. Container With Most Water](11ContainerWithMostWater1.md)|23:05|[![](https://img.shields.io/badge/tag-Medium-c5d714)](./tags/Medium.md) [![](https://img.shields.io/badge/tag-TwoPointers-84f8cf)](./tags/TwoPointers.md)|
 |2024-09-17|[15. 3Sum](15ThreeSum1.md)|47:06|[![](https://img.shields.io/badge/tag-Medium-c5d714)](./tags/Medium.md) [![](https://img.shields.io/badge/tag-Two-Pointers-4b9e32)](./tags/Two-Pointers.md)|
 |2024-09-14|[167. Two Sum II - Input Array Is Sorted](167TwoSumII1.md)|23:05|[![](https://img.shields.io/badge/tag-Medium-c5d714)](./tags/Medium.md) [![](https://img.shields.io/badge/tag-TwoPointers-84f8cf)](./tags/TwoPointers.md)|
@@ -33,4 +34,4 @@ This is only to record and track my own progress.
 |2024-08-23|[217. Contains Duplicate](217ContainsDuplicate2.md)|1:12|[![](https://img.shields.io/badge/tag-Arrays-9bf4b7)](./tags/Arrays.md) [![](https://img.shields.io/badge/tag-Easy-6f4790)](./tags/Easy.md) [![](https://img.shields.io/badge/tag-Hashing-473080)](./tags/Hashing.md)|
 |2024-08-23|[217. Contains Duplicate](217ContainsDuplicateAttempt1.md)|5:00|[![](https://img.shields.io/badge/tag-Arrays-9bf4b7)](./tags/Arrays.md) [![](https://img.shields.io/badge/tag-Easy-6f4790)](./tags/Easy.md) [![](https://img.shields.io/badge/tag-Hashing-473080)](./tags/Hashing.md)|
 
-[![](https://img.shields.io/badge/tag-Medium-c5d714)](./tags/Medium.md) [![](https://img.shields.io/badge/tag-TwoPointers-84f8cf)](./tags/TwoPointers.md) [![](https://img.shields.io/badge/tag-Arrays-9bf4b7)](./tags/Arrays.md) [![](https://img.shields.io/badge/tag-Easy-6f4790)](./tags/Easy.md) [![](https://img.shields.io/badge/tag-Hashing-473080)](./tags/Hashing.md) [![](https://img.shields.io/badge/tag-Two-Pointers-4b9e32)](./tags/Two-Pointers.md)
+[![](https://img.shields.io/badge/tag-Medium-c5d714)](./tags/Medium.md) [![](https://img.shields.io/badge/tag-TwoPointers-84f8cf)](./tags/TwoPointers.md) [![](https://img.shields.io/badge/tag-Arrays-9bf4b7)](./tags/Arrays.md) [![](https://img.shields.io/badge/tag-Easy-6f4790)](./tags/Easy.md) [![](https://img.shields.io/badge/tag-Hashing-473080)](./tags/Hashing.md) [![](https://img.shields.io/badge/tag-Two-Pointers-4b9e32)](./tags/Two-Pointers.md) [![](https://img.shields.io/badge/tag-Stack-25a9f1)](./tags/Stack.md)
