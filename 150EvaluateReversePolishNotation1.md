@@ -2,7 +2,7 @@
 
 labels: Stack, Medium
 
-Time Completed: 17:14 minutes
+Time Completed: 29:19 minutes
 
 Link to problem: [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 
