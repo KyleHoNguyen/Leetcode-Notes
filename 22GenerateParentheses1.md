@@ -1,18 +1,24 @@
-# 22. Generate Parentheses
+# 739. Daily Temperatures
 
 labels: Stack, Medium
 
-Time Completed: N/A minutes
+Time Completed: 60+ minutes
 
-Link to problem: [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
+Link to problem: [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 
 ## Solutions
 
-### Stack + Recursion
+### Stack 
 
-The optimal solution is to think of the different cases in which you can add anopen or close parentheses and when you can return the statement.
-You can only insert an open parentheses if there's less than n opens. you can only insert a closed parenthesis if there's more open parentheses.
-you can only return the statement/ copmbination if the open and close parentheses is equal to n. 
+The optimal solution is to have a stack to keep track of previous days that don't have number of days before a warmer temp. This stack will hold the index and element of said day. The algorithm is as you iterate through temperatures, you iterate through the stack if there's an element in the stack and if the current element is grater than the temperature at the top of the stack. As you iterate, pop from stack and set the index in result to the number of days between current index and index of the day. Append the element after the while loop is over. return result once the for loop is done. 
+
+1. create stack and result array. set result array to all zeroes for len of temperatures
+1. iterate through temperatures using enumerate
+    1. iterate through stack while current element is greater than top of stack
+    1. pop from stack and set result to the number of days it took to find a warmer temp
+1. append element and index to stack as a pair
+1. return result
+
 
 
 #### Time Complexity: O(n)
@@ -20,37 +26,26 @@ you can only return the statement/ copmbination if the open and close parenthese
 
 ## Biggest Takeaway
 
-Sometimes you need to look at the facts before trying to figure out the solution. for example, in this problem you had to figure out that there are certain situations where you can insert a parenthesis and when you return the statement. 
+Remember to try and create a more efficient solution after your initial solution
 
 ## Code 
 
 ```python
 class Solution(object):
-    def generateParenthesis(self, n):
+
+    def dailyTemperatures(self, temperatures):
         """
-        :type n: int
-        :rtype: List[str]
+        :type temperatures: List[int]
+        :rtype: List[int]
         """
-        # add open parenthesis if < n
-        # add close parenthesis if < open
-        # add to list if b oth = n
         stack = []
-        result = []
+        result = [0 ] * len(temperatures)
 
-        def backTrack(openP, closeP):
-            if openP == closeP == n:
-                result.append("".join(stack))
-                return
-            if openP < n:
-                stack.append("(")
-                backTrack(openP + 1, closeP)
-                stack.pop()
-            if closeP < openP:
-                stack.append(")")
-                backTrack(openP, closeP + 1)
-                stack.pop()
-        backTrack(0,0)
+        for index, element in enumerate(temperatures):
+            while stack and element > stack[-1][0]:
+                stackT, stackI = stack.pop()
+                result[stackI] = index - stackI
+            stack.append([element, index])
         return result
-
-        
+            
         
