@@ -4,6 +4,7 @@
 |:---|:---|---:|:---|
 |2024-09-30|[155. Min Stack](../155MinStack1.md)|20:23|[![](https://img.shields.io/badge/tag-Medium-25a9f1)](../tags/Medium.md) [![](https://img.shields.io/badge/tag-Stack-e2851f)](../tags/Stack.md)|
 |2024-09-30|[15. 3Sum](../15ThreeSum1.md)|47:06|[![](https://img.shields.io/badge/tag-Medium-25a9f1)](../tags/Medium.md) [![](https://img.shields.io/badge/tag-TwoPointers-33b5de)](../tags/TwoPointers.md)|
+|2024-09-30|[22. Generate Parentheses](../22GenerateParentheses1.md)|N/A|[![](https://img.shields.io/badge/tag-Medium-25a9f1)](../tags/Medium.md) [![](https://img.shields.io/badge/tag-Stack-e2851f)](../tags/Stack.md)|
 |2024-09-30|[150. Evaluate Reverse Polish Notation](../150EvaluateReversePolishNotation1.md)|29:19|[![](https://img.shields.io/badge/tag-Medium-25a9f1)](../tags/Medium.md) [![](https://img.shields.io/badge/tag-Stack-e2851f)](../tags/Stack.md)|
 |2024-09-28|[11. Container With Most Water](../11ContainerWithMostWater1.md)|23:05|[![](https://img.shields.io/badge/tag-Medium-25a9f1)](../tags/Medium.md) [![](https://img.shields.io/badge/tag-TwoPointers-33b5de)](../tags/TwoPointers.md)|
 |2024-09-14|[167. Two Sum II - Input Array Is Sorted](../167TwoSumII1.md)|23:05|[![](https://img.shields.io/badge/tag-Medium-25a9f1)](../tags/Medium.md) [![](https://img.shields.io/badge/tag-TwoPointers-33b5de)](../tags/TwoPointers.md)|
